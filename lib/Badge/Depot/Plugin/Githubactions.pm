@@ -108,6 +108,13 @@ Create a L<Github Actions|https://docs.github.com/en/free-pro-team@latest/action
 
 This class consumes the L<Badge::Depot> role.
 
+=begin html
+
+The badge will look similar to this:
+<a href="https://github.com/Csson/p5-Badge-Depot-Plugin-Githubactions/actions?query=workflow%3Amakefile-test+branch%3Amaster"><img src="https://img.shields.io/github/workflow/status/Csson/p5-Badge-Depot-Plugin-Githubactions/makefile-test/master" alt="Build status at Github" /></a>
+
+=end html
+
 =head1 ATTRIBUTES
 
 The C<user> and C<repo> attributes are required or optional, depending on your configuration. It looks for the C<resources/repository/web> setting in C<META.json>:

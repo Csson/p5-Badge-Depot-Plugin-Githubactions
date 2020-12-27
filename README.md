@@ -28,6 +28,11 @@ Create a [Github Actions](https://docs.github.com/en/free-pro-team@latest/action
 
 This class consumes the [Badge::Depot](https://metacpan.org/pod/Badge::Depot) role.
 
+<div>
+    The badge will look similar to this:
+    <a href="https://github.com/Csson/p5-Badge-Depot-Plugin-Githubactions/actions?query=workflow%3Amakefile-test+branch%3Amaster"><img src="https://img.shields.io/github/workflow/status/Csson/p5-Badge-Depot-Plugin-Githubactions/makefile-test/master" alt="Build status at Github" /></a>
+</div>
+
 # ATTRIBUTES
 
 The `user` and `repo` attributes are required or optional, depending on your configuration. It looks for the `resources/repository/web` setting in `META.json`:
