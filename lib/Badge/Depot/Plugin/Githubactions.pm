@@ -9,7 +9,7 @@ package Badge::Depot::Plugin::Githubactions;
 
 # ABSTRACT: Github Actions plugin for Badge::Depot
 # AUTHORITY
-our $VERSION = '0.0100';
+our $VERSION = '0.0101';
 
 use Moose;
 use namespace::autoclean;
