@@ -1,8 +1,12 @@
-/Badge-Depot-Plugin-Githubactions-*
+# This file was auto-generated from iller.yaml by Dist::Iller on 2020-12-27 21:53:43 UTC.
+# The following configs were used:
+# * Dist::Iller::Config::Author::CSSON: 0.0328
+
 /.build
 /_build*
 /Build
 MYMETA.*
 !META.json
 /.prove
+/Badge-Depot-Plugin-Githubactions-*
 .coverhistory.json
