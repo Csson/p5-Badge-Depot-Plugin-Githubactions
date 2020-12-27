@@ -55,16 +55,6 @@ Github branch. Optional, no default.
 
 - [Badge::Depot](https://metacpan.org/pod/Badge::Depot)
 
-# SYNOPSIS
-
-    use Badge::Depot::Plugin::Githubactions;
-
-# DESCRIPTION
-
-Badge::Depot::Plugin::Githubactions is ...
-
-# SEE ALSO
-
 # SOURCE
 
 [https://github.com/Csson/p5-Badge-Depot-Plugin-Githubactions](https://github.com/Csson/p5-Badge-Depot-Plugin-Githubactions)
