@@ -1,0 +1,8 @@
+/Badge-Depot-Plugin-Githubactions-*
+/.build
+/_build*
+/Build
+MYMETA.*
+!META.json
+/.prove
+.coverhistory.json
